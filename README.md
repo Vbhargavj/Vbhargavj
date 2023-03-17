@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vbhargavj" alt="vbhargavj" /></a> </p>
 
-- 🔭 I’m currently working on **spy camera**
+- 🔭 I’m currently working on **applications**
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **app devlopment**
 
 - 📫 How to reach me **bbhaijbhai@gmail.com**
 
